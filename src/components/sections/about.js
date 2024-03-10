@@ -125,7 +125,25 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React Native',
+    'React',
+    'Redux',
+    'Social Logins',
+    'Firebase',
+    'Github',
+    'Pixel Perfect Uls',
+    'APP multi Flavours',
+    'In App Purchases',
+    'Stripe',
+    'Native  Bridging',
+    'Sockets',
+    'OCR',
+    'Integrating payment gateway',
+    'OneSignal',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,10 +153,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi! I'm Samama Zargham, a software engineer, I love building things for the Mobile –
+              websites, apps, you name it! I'm all about creating products that are not only
+              visually stunning (think pixel-perfect!) but also super fast and smooth to use.
             </p>
 
             <p>
@@ -173,7 +190,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
