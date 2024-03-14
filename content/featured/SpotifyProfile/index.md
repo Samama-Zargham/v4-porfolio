@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Cars Doctor'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://apps.apple.com/us/app/cars-doctors/id6473182540'
 tech:
-  - React
+  - React Native
   - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Xcode
+  - Google Maps
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This app is build to provide services to user to book a car repairing service in Doha, Qatar. User can select time and date and provide the issue. User can choose pickup or drop off for their service.

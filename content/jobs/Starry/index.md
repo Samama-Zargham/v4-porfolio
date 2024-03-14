@@ -1,12 +1,14 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2023-03-14'
+title: 'Senior React Native Developer'
+company: 'Orcalo Holdings'
+location: 'Stockley Park , Uxbridge , England,'
+range: 'Mar 2023 - Present'
+url: 'https://orcaloholding.co.uk/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Consistently delivered pixel-perfect user interfaces, ensuring design fidelity and a seamless user experience across multiple platforms and devices.
+- Collaborated closely with the design team to translate complex design concepts into flawless, high-quality user interfaces.
+- Implemented precise design specifications to maintain visual consistency and alignment with design guidelines.
+- Collaborated seamlessly with multidisciplinary teams, including designers, developers, and product managers, to achieve project goals.
+- Leveraged strong interpersonal skills to build positive working relationships and foster a collaborative and inclusive work environment.

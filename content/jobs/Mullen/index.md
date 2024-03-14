@@ -1,12 +1,12 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: 'APR 2021'
+title: 'Mobile App Internship'
+company: 'ICR'
+location: 'RYK, PK'
+range: 'APR 2021 – OCT 2021'
+url: 'https://itcentre.pk/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Proud to showcase my skills and contribute to a user-friendly products.
+- I was excited to leverage the skills and knowledge I gained for future projects.
+- Proud to wrap up a rewarding internship. Gained valuable experience and confident in my skills.

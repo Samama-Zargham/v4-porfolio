@@ -1,8 +1,8 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Kapital Kitchen'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://play.google.com/store/apps/details?id=com.fajira.kapitalKitchen'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - React

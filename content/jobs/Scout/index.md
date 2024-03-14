@@ -1,11 +1,12 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: 'JUL 2021'
+title: 'Mid React Native Developer'
+company: 'HW Tech'
+location: 'RYK, PK'
+range: 'JUL 2021 – AUG 2022'
+url: 'https://helloworldtech.com/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
+- Here I have worked on many types of Mobile Applications like E-commerce, Food Delivery, Sports, Booking and some others
 - Built and delivered technical solutions according to stakeholder business requirements
+- Leveraged strong interpersonal skills to build positive working relationships and foster a collaborative and inclusive work environment.
