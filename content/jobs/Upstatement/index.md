@@ -2,7 +2,7 @@
 date: '2023-03-14'
 title: 'Senior React Native Developer'
 company: 'Orcalo Holding's'
-location: 'Suite 6 IK, 6-9 TheSquare, Stockley Park, Uxbridge, England'
+location: 'Suite 6 ik, 69 TheSquare, Stockley Park, Uxbridge, England'
 range: 'Mar 2023 - Present'
 url: 'https://orcaloholding.co.uk/'
 ---
